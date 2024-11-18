@@ -27,7 +27,7 @@ To run ProfBotix, ensure you have the following installed:
 Install these libraries using pip:
 pip install Flask openai Pillow pytesseract python-dotenv
 
-
+'''bash
 📂 ProfBotix
 ├── 📄 app.py          # Flask application logic
 ├── 📄 templates/      # HTML templates for the web interface
